@@ -1,0 +1,1 @@
+stm32f401ccu6_hal_stable_oled\startup_stm32f401xc.o: startup_stm32f401xc.s
